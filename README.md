@@ -9,29 +9,29 @@ The data Schrute dataset consisted of over 55,000 rows of script for 177 episode
 The following chart shows the average rating of the show by season. Michael Scott, the protagonist of the show was played by Steve Carell. NBC didn't renew Steve Carell's contract after the season 7 and a decline in the ratings on the show is obvious. 
 
 <p align="center">
-<img src="Images/popularity.png" width="800" height="275">
+<img src="images/popularity.png" width="800" height="275">
 <p/>
 
 Here is a chart of Top and Bottom 5 shows. four of the bottom shows were in season 8. 
 
 <p align="center">
-<img src="TopBottom5.png" width="800" height="275">
+<img src="images/TopBottom5.png" width="800" height="275">
 <p/>
 
 This chart shows percent of dialogues spoken by the leading characters per season. 
 
 <p align="center">
-<img src="Top_6_Characters_Dialog_Percentage.png" width="800" height="275">
+<img src="images/Top_6_Characters_Dialog_Percentage.png" width="800" height="275">
 <p/>
 
 Here is a word cloud for the best and worst show. 
 
 <p align="center">
-<img src="Images/bestshow_cloud.png" width="800" height="350">
+<img src="images/bestshow_cloud.png" width="800" height="350">
 <p/>
 
 <p align="center">
-<img src="Images/worstshow_cloud.png" width="800" height="350">
+<img src="images/worstshow_cloud.png" width="800" height="350">
 <p/>
 
 Looking at these word clouds, it seems the best show used theme more in the scripts and the worst show used name of characters more often in the script. 

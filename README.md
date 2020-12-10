@@ -27,7 +27,7 @@ This chart shows percent of dialogues spoken by the leading characters per seaso
 Here is a word cloud for the best and worst show. 
 
 <p align="center">
-<img src="images/bestshow_cloud.png" width="800" height="350">
+<img src="images/bestshow_cloud.png" width="800" height="275">
 <p/>
 
 <p align="center">
